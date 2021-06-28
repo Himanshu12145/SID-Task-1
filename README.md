@@ -2,7 +2,7 @@
 
 ### Hi,
 # Application Preview
-### Some of these have validation
+### Some of these inputs have validation
 
 ![](https://github.com/Himanshu12145/SID-Task-1/blob/master/SS1.png)
 ![](https://github.com/Himanshu12145/SID-Task-1/blob/master/SS2.png)
