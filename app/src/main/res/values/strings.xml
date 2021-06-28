@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task-1</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_branch">Enter Branch</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="enter_registration_number">Enter Registration Number</string>
+    <string name="submit">Submit</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="name">Name</string>
+    <string name="branch">Branch</string>
+    <string name="year">Year</string>
+    <string name="registration_number">Registration Number</string>
+</resources>
