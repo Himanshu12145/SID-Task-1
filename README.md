@@ -3,7 +3,7 @@ FIRST push
 
 ## Hi,
 ### Application Preview
-![](master/SS1.png)
+![1](https://github.com/Himanshu12145/SID-Task-1/blob/master/SS1.png)
 []()
 []()
 []()
